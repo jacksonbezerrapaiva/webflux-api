@@ -1,6 +1,6 @@
 # **WebFlux**
 
-Example application with WebFlux with Mongo.
+Example application with WebFlux and Mongo.
 
 **Requirements**
 - docker
